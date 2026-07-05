@@ -15,8 +15,8 @@ I'm a developer working on fine-tuning LLMs and diffusion models, and building o
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 Quick Stats:
-![Total Commits](https://img.shields.io/badge/Total_Commits-700%2B-brightgreen.svg?style=for-the-badge) ![Total Stars](https://img.shields.io/badge/Total_Stars-0-yellow.svg?style=for-the-badge) ![Total PRs](https://img.shields.io/badge/Total_PRs-0-blue.svg?style=for-the-badge) ![Current Streak](https://img.shields.io/badge/Current_Streak-1_day-orange.svg?style=for-the-badge) ![Longest Streak](https://img.shields.io/badge/Longest_Streak-2_days-red.svg?style=for-the-badge)
+## 📊 Live GitHub Stats:
+![Live GitHub Stats](https://hmmbabe.vercel.app/api/stats?username=hypomonal)
 
 ## 🗣️ Most Used Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-72.81%25-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-14.14%25-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-6.73%25-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-6.32%25-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,19 +29,3 @@ I'm a developer working on fine-tuning LLMs and diffusion models, and building o
 🗓️ Member since July 2026 &nbsp;|&nbsp; 👀 [![Profile Views](https://komarev.com/ghpvc/?username=hypomonal&icon=github&color=0e75b6&style=for-the-badge)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Hi there 👋
-
-<!--
-**hypomonal/hypomonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
