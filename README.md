@@ -1,5 +1,9 @@
 # Hi, I'm Dheeraj Chavan 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Fine-tuning+LLMs+%26+Diffusion+Models;Building+Open-Source+Tools;40%2B+Projects+Shipped" alt="Typing animation" />
+</p>
+
 # 💫 About Me:
 I'm a developer working on fine-tuning LLMs and diffusion models, and building open-source projects aimed at helping the developer community.
 
@@ -21,8 +25,8 @@ I'm a developer working on fine-tuning LLMs and diffusion models, and building o
 | ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | Beginner |
 | ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) | Beginner |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white) | Intermediate |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white) | Proficient |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white) | Proficient |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white) | Intermediate |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white) | Intermediate |
 
 **Tools & Platforms:**
 ![Kaggle](https://img.shields.io/badge/Kaggle-035A7D.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -32,6 +36,13 @@ I'm a developer working on fine-tuning LLMs and diffusion models, and building o
 
 ## 🗣️ Most Used Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-72.81%25-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-14.14%25-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-6.73%25-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-6.32%25-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🐍 Contribution Snake:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hypomonal/hypomonal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hypomonal/hypomonal/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hypomonal/hypomonal/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 👀 [![Profile Views](https://komarev.com/ghpvc/?username=hypomonal&icon=github&color=0e75b6&style=for-the-badge)](https://visitcount.itsvg.in)
